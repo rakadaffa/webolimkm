@@ -8,6 +8,10 @@ import Silver from "@/public/silver.svg"
 import Bronze from "@/public/bronze.svg"
 import Total from "@/public/total.svg"
 import Link from "next/link";
+import TimelineTitle from "@/public/titletimeline.svg"
+import Timeline from "@/public/timeline1.svg"
+import Timeline2 from "@/public/timeline2.svg"
+import ComingSoon from "@/public/COMING SOON.svg"
 
 const MainPage = () => {
   return(
@@ -117,6 +121,38 @@ const MainPage = () => {
         </div>
       </div>
 
+  </div>
+  <div className="flex flex-col h-full overflow-hidden w-full bg-[#F9F3BA] relative p-10">
+      <Image
+        src={TimelineTitle}
+        alt="Title"
+        width={20}
+        height={20}
+        className="w-[400px]"
+      />
+      <div className="grid md:grid-cols-2 gap-7">
+        <Image
+          src={Timeline}
+          alt="Title"
+          width={20}
+          height={20}
+          className="w-full"
+        />
+        <Image
+        src={Timeline2}
+        alt="Title"
+        width={20}
+        height={20}
+        className="w-full"
+      />
+      </div>
+      <Image
+        src={ComingSoon}
+        alt="Title"
+        width={20}
+        height={20}
+        className="w-full mx-auto"
+      />
   </div>
     
   </section>

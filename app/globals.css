@@ -61,3 +61,14 @@ body {
   left: 2%;
   bottom: 0; /* Align it to the bottom */
 }
+
+/* Hide scrollbar in WebKit browsers */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar in Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
