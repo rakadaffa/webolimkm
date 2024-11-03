@@ -18,7 +18,7 @@ const MainPage = () => {
       <div className="flex flex-col min-h-screen h-full overflow-hidden w-full bg-[#F9F3BA] relative">
         <Image
           src="/IMG_8115 1.svg"
-          alt="Background Image"
+          alt=""
           width={20}
           height={20}
           className="z-0 object-cover h-screen w-full"
@@ -158,7 +158,7 @@ const MainPage = () => {
             ))}
             <div className="bg-[#F6E091] bonjour-font text-center py-2 md:py-4 rounded-xl cursor-pointer hover:bg-[#cdbb79]">
               {" "}
-              <Link href="/Leaderboard">See More</Link>
+              <Link href="./Leaderboard">See More</Link>
             </div>
           </div>
         </div>

@@ -14,10 +14,20 @@ const Footer = () => {
           <div className="flex flex-col pl-5 mt-1">
             <div className="flex items-center gap-5">
               <Link href="/">
-                <Image src="/youtube.svg" alt="youtube logo" width={35} height={40} />
+                <Image
+                  src="/youtube.svg"
+                  alt="youtube logo"
+                  width={35}
+                  height={40}
+                />
               </Link>
-              <Link href="/">
-                <Image src="/instagram.svg" alt="instagram logo" width={25} height={40} />
+              <Link href="/https://instagram.com/olimpiade.km.itb">
+                <Image
+                  src="/instagram.svg"
+                  alt="instagram logo"
+                  width={25}
+                  height={40}
+                />
               </Link>
               <Link href="/">
                 <Image src="/x.svg" alt="x logo" width={25} height={40} />
@@ -45,6 +55,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-
-
