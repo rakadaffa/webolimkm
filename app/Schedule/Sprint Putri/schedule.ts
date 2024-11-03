@@ -2,7 +2,7 @@ export const schedule = [
     {
         round: 1,
         match : [
-            [
+            
                 {
                     sportName: "Atletik Putri",
                     tim1: "Grup 1",
@@ -210,7 +210,7 @@ export const schedule = [
                     image2: "./HIMABIO.png",
                     skor2: " "
                 }
-            ]
+            
         ],
     },
     {

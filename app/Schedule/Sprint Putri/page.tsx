@@ -7,11 +7,7 @@ import Link from "next/link";
 
 // Define the types for the match and schedule
 interface Match {
-  day: number;
-  tanggal: string;
-  lokasi: string;
   sportName: string;
-  waktu: string;
   tim1: string;
   image1: string;
   skor1: string;
