@@ -2,7 +2,7 @@ export const schedule = [
     {
         round: 1,
         match : [
-            [
+            
                     {
                         sportName: "Sprint Putra",
                         tim1: "Grup 1",
@@ -329,7 +329,7 @@ export const schedule = [
                         skor2: " "
                     }
                 
-            ]
+            
         ],
     },
     {
