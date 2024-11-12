@@ -521,10 +521,10 @@ export const schedule = [
                 sportName: "Mobile Legends: Bang Bang",
                 tim1: "Keluarga Mahasiswa Teknik Industri (B)",
                 image1: "/LogoHMPS/MTI.png",
-                skor1: "0",
+                skor1: "1",
                 tim2: "Himpunan Mahasiswa Teknik Material (A)",
-                image2: "/TBD.png",
-                skor2: "0",
+                image2: "/LogoHMPS/MTM.png",
+                skor2: "2",
             }]
     },
     {
@@ -534,19 +534,19 @@ export const schedule = [
                 sportName: "Mobile Legends: Bang Bang",
                 tim1: "Himpunan Mahasiswa Informatika (A)",
                 image1: "/LogoHMPS/HMIF.png",
-                skor1: "0",
+                skor1: "1",
                 tim2: "Himpunan Mahasiswa Matematika (B)",
                 image2: "/LogoHMPS/HIMATIKA.png",
-                skor2: "0",
+                skor2: "2",
             },
             {
                 sportName: "Mobile Legends: Bang Bang",
                 tim1: "Himpunan Mahasiswa Mesin",
                 image1: "/LogoHMPS/HMM.png",
-                skor1: "0",
-                tim2: "TBD",
-                image2: "/TBD.png",
-                skor2: "0",
+                skor1: "2",
+                tim2: "Himpunan Mahasiswa Teknik Material (A)",
+                image2: "/LogoHMPS/MTM.png",
+                skor2: "1",
             }
         ]
     },
@@ -555,12 +555,12 @@ export const schedule = [
         match : [
             {
                 sportName: "Mobile Legends: Bang Bang",
-                tim1: "TBD",
-                image1: "/TBD.png",
-                skor1: "0",
-                tim2: "TBD",
-                image2: "/TBD.png",
-                skor2: "0",
+                tim1: "Himpunan Mahasiswa Informatika (A)",
+                image1: "/LogoHMPS/HMIF.png",
+                skor1: "1",
+                tim2: "Himpunan Mahasiswa Teknik Material (A)",
+                image2: "/LogoHMPS/MTM.png",
+                skor2: "2",
             }]
     },
     {
@@ -568,12 +568,12 @@ export const schedule = [
         match : [
             {
                 sportName: "Mobile Legends: Bang Bang",
-                tim1: "TBD",
-                image1: "/TBD.png",
-                skor1: "0",
-                tim2: "TBD",
-                image2: "/TBD.png",
-                skor2: "0",
+                tim1: "Himpunan Mahasiswa Matematika (B)",
+                image1: "/LogoHMPS/HIMATIKA.png",
+                skor1: "3",
+                tim2: "Himpunan Mahasiswa Mesin",
+                image2: "/LogoHMPS/HMM.png",
+                skor2: "2",
             }]
     }
 ]

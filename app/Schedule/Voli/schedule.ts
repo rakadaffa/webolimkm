@@ -1,6 +1,6 @@
 export const schedule = [
     {
-        round: 1,
+        round : 1,
         match : [
             {
                 sportName: "Voli",
@@ -55,7 +55,11 @@ export const schedule = [
                 tim2: "Himpunan Mahasiswa Fisika Teknik",
                 image2: "/LogoHMPS/HMFT.png",
                 skor2: "0"
-            },
+            }]
+    },
+    {
+        round : 2,
+        match : [
             {
                 sportName: "Voli",
                 tim1: "Himpunan Mahasiswa Mesin",
@@ -127,13 +131,94 @@ export const schedule = [
                 tim2: "TBD",
                 image2: "/TBD.png",
                 skor2: "0"
-            }
-        ],
+            }]
     },
     {
-        round: 2,
+        round : 3,
         match : [
-           
-        ],
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            },
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            },
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            },
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            }]
     },
-  ]
+    {
+        round : 4, // Semifinal
+        match : [
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            },
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            }]
+    },
+    {
+        round : 5, // Bronze Match
+        match : [
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            }]
+    },
+    {
+        round : 6, // Final
+        match : [
+            {
+                sportName: "Voli",
+                tim1: "TBD",
+                image1: "/TBD.png",
+                skor1: "0",
+                tim2: "TBD",
+                image2: "/TBD.png",
+                skor2: "0"
+            }]
+    },
+]

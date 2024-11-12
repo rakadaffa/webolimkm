@@ -250,10 +250,10 @@ export const schedule = [
             sportName: "Valorant",
             tim1: 'Himpunan Mahasiswa Teknik Lingkungan',
             image1: "/LogoHMPS/HMTL.png",
-            skor1: "0",
+            skor1: "1",
             tim2: "Himpunan Mahasiswa Informatika",
             image2: "/LogoHMPS/HMIF.png",
-            skor2: "0"
+            skor2: "13"
         },
         {
             sportName: "Valorant",
@@ -325,30 +325,30 @@ export const schedule = [
     match : [
         {
             sportName: "Valorant",
-            tim1: 'TBD',
-            image1: "/TBD.png",
-            skor1: "0",
+            tim1: 'Himpunan Mahasiswa Informatika',
+            image1: "/LogoHMPS/HMIF.png",
+            skor1: "2 (12 13 13)",
             tim2: 'Keluarga Mahasiswa Teknik Industri',
             image2: "/LogoHMPS/MTI.png",
-            skor2: "0"
+            skor2: "1 (13 10 6)"
         },
         {
             sportName: "Valorant",
             tim1: 'Himpunan Mahasiswa Teknik Perminyakan "PATRA"',
             image1: "/LogoHMPS/HMTM.png",
-            skor1: "0",
+            skor1: "2 (3 13 13)",
             tim2: 'Keluarga Mahasiswa Teknik Penerbangan',
             image2: "/LogoHMPS/KMPN.png",
-            skor2: "0"
+            skor2: "1 (13 10 6)"
         },
         {
             sportName: "Valorant",
             tim1: 'Himpunan Mahasiswa Teknik Bioenergi dan Kemurgi "RINUVA"',
             image1: "/LogoHMPS/HMTB.png",
-            skor1: "0",
+            skor1: "2 (13 13 0)",
             tim2: 'Himpunan Mahasiswa Matematika',
             image2: "/LogoHMPS/HIMATIKA.png",
-            skor2: "0"
+            skor2: "0 (12 12 0)"
         },
         {
             sportName: "Valorant",
@@ -362,39 +362,39 @@ export const schedule = [
     ]   
     },
     {
-        round: 5,
-        match : [
-            {
-                sportName: "Valorant",
-                tim1: 'TBD',
-                image1: "/TBD.png",
-                skor1: "0",
-                tim2: 'TBD',
-                image2: "/TBD.png",
-                skor2: "0"
-            },
-            {
-                sportName: "Valorant",
-                tim1: 'TBD',
-                image1: "/TBD.png",
-                skor1: "0",
-                tim2: 'TBD',
-                image2: "/TBD.png",
-                skor2: "0"
-            }
-        ]
+    round: 5,
+    match : [
+        {
+            sportName: "Valorant",
+            tim1: 'Himpunan Mahasiswa Informatika',
+            image1: "/LogoHMPS/HMIF.png",
+            skor1: "2 (13 13 0)",
+            tim2: 'Himpunan Mahasiswa Teknik Perminyakan "PATRA"',
+            image2: "/LogoHMPS/HMTM.png",
+            skor2: "0 (5 5 0)"
+        },
+        {
+            sportName: "Valorant",
+            tim1: 'Himpunan Mahasiswa Teknik Bioenergi dan Kemurgi "RINUVA"',
+            image1: "/LogoHMPS/HMTB.png",
+            skor1: "0 (11 6 0)",
+            tim2: 'Ikatan Mahasiswa Telekomunikasi "Signum"',
+            image2: "/LogoHMPS/IMT.png",
+            skor2: "2 (13 13 0)",
+        }
+    ]
     },
     {
     round: 6,
     match : [
         {
             sportName: "Valorant",
-            tim1: 'TBD',
-            image1: "/TBD.png",
-            skor1: "0",
-            tim2: 'TBD',
-            image2: "/TBD.png",
-            skor2: "0"
+            tim1: 'Himpunan Mahasiswa Teknik Perminyakan "PATRA"',
+            image1: "/LogoHMPS/HMTM.png",
+            skor1: "1 (13 10 2)",
+            tim2: 'Himpunan Mahasiswa Teknik Bioenergi dan Kemurgi "RINUVA"',
+            image2: "/LogoHMPS/HMTB.png",
+            skor2: "2 (8 13 13)",
         }
     ]
     },
@@ -403,12 +403,12 @@ export const schedule = [
     match : [
         {
             sportName: "Valorant",
-            tim1: 'TBD',
-            image1: "/TBD.png",
-            skor1: "0",
-            tim2: 'TBD',
-            image2: "/TBD.png",
-            skor2: "0"
+            tim1: 'Himpunan Mahasiswa Informatika',
+            image1: "/LogoHMPS/HMIF.png",
+            skor1: "3 (13 13 13 0 0)",
+            tim2: 'Ikatan Mahasiswa Telekomunikasi "Signum"',
+            image2: "/LogoHMPS/IMT.png",
+            skor2: "0 (6 3 5 0 0)"
         }
     ]
     }
