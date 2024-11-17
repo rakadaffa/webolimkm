@@ -127,21 +127,10 @@ const page = () => {
             </div>
           </div>
         </div>
-
-        <div className="flex flex-col h-full overflow-hidden w-full bg-[#F9F3BA] relative p-10">
-          <Image
-            src={ComingSoon}
-            alt="Title"
-            width={20}
-            height={20}
-            className="w-full mx-auto"
-          />
-        </div>
-
         {/* Search Bar */}
 
-        {/* <div className="mx-auto w-[90%] relative pt-4"> */}
-        {/* <input
+        <div className="mx-auto w-[90%] relative pt-4">
+          <input
             ref={inputRef}
             type="text"
             placeholder="CARI HIMPUNAN MAHASISWA JURUSAN/PROGRAM STUDI"
@@ -154,9 +143,9 @@ const page = () => {
             <div
               ref={dropdownRef}
               className="absolute top-12 w-full bg-[#F6E091] rounded-lg max-h-36 overflow-y-auto mt-2 overflow-x-hidden z-[20]"
-            > */}
-        {/* Display all teams but only show 3 at a time with scroll */}
-        {/* {filteredTeams.map((team, index) => (
+            >
+              {/* Display all teams but only show 3 at a time with scroll */}
+              {filteredTeams.map((team, index) => (
                 <div
                   key={index}
                   className="p-3 hover:bg-gray-200 cursor-pointer bonjour-font border-bottom-center flex gap-3"
@@ -170,12 +159,12 @@ const page = () => {
                   {team.name}
                 </div>
               ))}
-            </div> */}
-        {/* )}
-        </div> */}
+            </div>
+          )}
+        </div>
 
         {/* Selected Team */}
-        {/* {selectedTeam && (
+        {selectedTeam && (
           <div className="mt-10 pb-8 w-[90%] mx-auto">
             <div className="flex gap-5 mb-5">
               <Image
@@ -298,10 +287,10 @@ const page = () => {
               ))}
             </div>
           </div>
-        )} */}
+        )}
 
         {/* Modal for "See More" */}
-        {/* {showSport && (
+        {showSport && (
           <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
             <div className="bg-[#F6E091] rounded-xl shadow-lg w-[90%] lg:max-w-[80%] h-fit relative pb-10">
               <Image
@@ -310,10 +299,10 @@ const page = () => {
                 width={20}
                 height={20}
                 className="w-full rounded-xl absolute top-0"
-              /> */}
+              />
 
-        {/* {showSport.sportName == } */}
-        {/* {showSport.sportName == "Tenis Meja" && (
+              {/* {showSport.sportName == } */}
+              {showSport.sportName == "Tenis Meja" && (
                 <Image
                   src={TenisMeja2}
                   alt="Logo"
@@ -407,7 +396,7 @@ const page = () => {
               </div>
             </div>
           </div>
-        )} */}
+        )}
       </div>
     </section>
   );
