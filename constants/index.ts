@@ -70,11 +70,11 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Razi Rachman Widyadhana', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Razi Rachman Widyadhana'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
@@ -84,7 +84,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -92,7 +92,7 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
@@ -110,7 +110,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Gita Nur Ajizah', 'Yonathan Firdian Saragih', 'Amalul Qorina', 'Syauqi Nawawi', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Gita Nur Ajizah', 'Yonathan Firdian Saragih', 'Amalul Qorina', 'Syauqi Nawawi'],
       },
       {
         sportName: 'Badminton',
@@ -118,11 +118,11 @@ export const teams = [
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -130,15 +130,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['M. Khawariz Andaristiyan', 'Rafa Nanda Akilah', 'Kiki Citra Wati', 'Fatiha Izza Tunisa', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['M. Khawariz Andaristiyan', 'Rafa Nanda Akilah', 'Kiki Citra Wati', 'Fatiha Izza Tunisa','Player 1'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   }, 
@@ -148,7 +148,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
@@ -160,7 +160,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -168,15 +168,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['M. Rafi Pradipta P.K.', 'Alnair Lapatiroi', 'Aida Fitri Kamila', 'Yuma Yumna Jauza M', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['M. Rafi Pradipta P.K.', 'Alnair Lapatiroi', 'Aida Fitri Kamila', 'Yuma Yumna Jauza M'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Alvin Zuhri', 'Arya Faiza Sebastian', 'Ershafa Nailah', 'Ransi Raihan', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Alvin Zuhri', 'Arya Faiza Sebastian', 'Ershafa Nailah', 'Ransi Raihan','Player 1'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   }, 
@@ -186,7 +186,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Gisela Aurora Gitapoetri', 'Bright Christian Kusuma', 'Samuel Irving Pudinaung', 'Maria Sophie Dewanto', 'Hans Forbes Kurniadi', ' Al Khairy Farisy', 'Player 7', 'Player 8'],
+        players: ['Gisela Aurora Gitapoetri', 'Bright Christian Kusuma', 'Samuel Irving Pudinaung', 'Maria Sophie Dewanto', 'Hans Forbes Kurniadi', ' Al Khairy Farisy', 'Player 7'],
       },
       {
         sportName: 'Badminton',
@@ -198,7 +198,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -206,15 +206,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Andika Rama', 'Jasmine Callista', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Andika Rama', 'Jasmine Callista'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Alvin Zuhri', 'Arya Faiza Sebastian', 'Ershafa Nailah', 'Ransi Raihan', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Alvin Zuhri', 'Arya Faiza Sebastian', 'Ershafa Nailah', 'Ransi Raihan','Player 1'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -224,7 +224,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Al Muqsith Aufa', 'Aisha Nadine', 'Rayhan Tri Putra', 'Made Ayu Aneira Widiana', 'Nadira Azzahrah', 'Sendy Ramadona', 'Player 7', 'Player 8'],
+        players: ['Al Muqsith Aufa', 'Aisha Nadine', 'Rayhan Tri Putra', 'Made Ayu Aneira Widiana', 'Nadira Azzahrah', 'Sendy Ramadona', 'Player 7'],
       },
       {
         sportName: 'Badminton',
@@ -236,7 +236,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -244,15 +244,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   }, 
@@ -262,7 +262,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Ario Nawangsidi', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Ario Nawangsidi'],
       },
       {
         sportName: 'Badminton',
@@ -274,7 +274,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -282,15 +282,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -300,11 +300,11 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
@@ -312,7 +312,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -320,11 +320,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Muhammad Rafif Fadillah', 'Mohammad Ilham Hazetra', 'Muhammad Nurbuana Alfatah', 'Alya Abshara Mahira Adhiputri', 'Zalma Zahara Hanum', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Rafif Fadillah', 'Mohammad Ilham Hazetra', 'Muhammad Nurbuana Alfatah', 'Alya Abshara Mahira Adhiputri', 'Zalma Zahara Hanum'],
       },
       {
         sportName: 'Voli',
@@ -338,19 +338,19 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -358,15 +358,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -388,7 +388,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Azarya Benhanan Isriyanto', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Azarya Benhanan Isriyanto'],
       },
       {
         sportName: 'Futsal',
@@ -396,11 +396,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Alfia Suci Febriyanti', 'Aditya Lukki', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Alfia Suci Febriyanti', 'Aditya Lukki'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
@@ -414,7 +414,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Ryan Rivandi', 'Edric Geoffrey', 'Jabbar Alam', 'Muhammad Thoriq Rashin Praja', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Ryan Rivandi', 'Edric Geoffrey', 'Jabbar Alam', 'Muhammad Thoriq Rashin Praja'],
       },
       {
         sportName: 'Badminton',
@@ -426,7 +426,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Ryan Rivandi', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Player 1', 'Ryan Rivandi'],
       },
       {
         sportName: 'Futsal',
@@ -434,11 +434,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Ratna Devinta', 'Alief', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Ratna Devinta', 'Alief'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Juan Frederick ', 'Muhammad Farel Rahardian', 'Nataya Shafira', 'Ratna Devinta Salsabila', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Juan Frederick ', 'Muhammad Farel Rahardian', 'Nataya Shafira', 'Ratna Devinta Salsabila','TBA'],
       },
       {
         sportName: 'Voli',
@@ -452,7 +452,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Ifzal Mausul Ramadhan Winarno', 'Kelly Marllon', 'Elna Kuraeni', 'Grace Fidelia Situmorang', 'Ahrish Firman Syah', 'Oryza Wardana', 'Abyaz Nawfaldhiyaa', 'Player 8'],
+        players: ['Ifzal Mausul Ramadhan Winarno', 'Kelly Marllon', 'Elna Kuraeni', 'Grace Fidelia Situmorang', 'Ahrish Firman Syah', 'Oryza Wardana', 'Abyaz Nawfaldhiyaa'],
       },
       {
         sportName: 'Badminton',
@@ -464,7 +464,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Ahrish Firman Syah', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Ahrish Firman Syah'],
       },
       {
         sportName: 'Futsal',
@@ -472,11 +472,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
@@ -490,7 +490,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Nicole Prodjomaroeto', 'Haiga Sophia', 'Muhammad Zhorif Robbaanii', 'Naufal Muhammad Alif', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Nicole Prodjomaroeto', 'Haiga Sophia', 'Muhammad Zhorif Robbaanii', 'Naufal Muhammad Alif'],
       },
       {
         sportName: 'Badminton',
@@ -502,23 +502,23 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -540,7 +540,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Zaid Ahmad Shadiq', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Zaid Ahmad Shadiq'],
       },
       {
         sportName: 'Futsal',
@@ -548,11 +548,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Diva Maharani', 'Ken Dedes', '⁠Arvind Vazza Pratama', 'Athalla Defin', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Diva Maharani', 'Ken Dedes', '⁠Arvind Vazza Pratama', 'Athalla Defin'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Raihan Eko Sugiyanto', 'Anna Felicya', 'Arham Namusul Ka’ab', '⁠⁠Syafrizal Hidayat', 'Maidina Zevi', 'Ahmad Faishal Nurdzaky', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Raihan Eko Sugiyanto', 'Anna Felicya', 'Arham Namusul Ka’ab', '⁠⁠Syafrizal Hidayat', 'Maidina Zevi', 'Ahmad Faishal Nurdzaky', 'Player 7','TBA'],
       },
       {
         sportName: 'Voli',
@@ -566,35 +566,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -604,19 +604,19 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -624,15 +624,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -642,35 +642,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -692,7 +692,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Jeffer Francisco', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Jeffer Francisco'],
       },
       {
         sportName: 'Futsal',
@@ -700,11 +700,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Christophorus Gerard Marvin', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Christophorus Gerard Marvin'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Mirza Fazil Karimdi', 'Muhammad Ikhsan Izzul Haq', 'Nafi`ah Rahni Nugrahanti', 'Fideline Callysta Theona', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Mirza Fazil Karimdi', 'Muhammad Ikhsan Izzul Haq', 'Nafi`ah Rahni Nugrahanti', 'Fideline Callysta Theona','TBA'],
       },
       {
         sportName: 'Voli',
@@ -718,35 +718,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -756,7 +756,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Bona Ventura D Taplo', 'Immanuel Satria A M N', 'Rizqi Andhika Satrya Putra', 'Kasih Paskah Avrilla Sinaga', 'Revina Elisabeth Permata Sari', 'Adil Satria Buana', 'Player 7', 'Player 8'],
+        players: ['Bona Ventura D Taplo', 'Immanuel Satria A M N', 'Rizqi Andhika Satrya Putra', 'Kasih Paskah Avrilla Sinaga', 'Revina Elisabeth Permata Sari', 'Adil Satria Buana', 'Player 7'],
       },
       {
         sportName: 'Badminton',
@@ -768,7 +768,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Kamila Hildi Lavely', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Kamila Hildi Lavely'],
       },
       {
         sportName: 'Futsal',
@@ -776,11 +776,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Nashaura Jilan Attayanissa Adityawarman', 'Marliana Margaretha Pardede', 'Parlindungan Marcelino', 'Karisma Yoga Firmansyah', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Nashaura Jilan Attayanissa Adityawarman', 'Marliana Margaretha Pardede', 'Parlindungan Marcelino', 'Karisma Yoga Firmansyah'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Fredy Allan Susanto', 'Axel Christabel Dalta', 'Naufal Nugroho Raharjo', 'Eugenia Kesya Annindya Putri', 'Evelyn Rosherina Cahyadi', 'Andika Rifqi Mulia', 'Tessa Johanna Sutrisno','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Fredy Allan Susanto', 'Axel Christabel Dalta', 'Naufal Nugroho Raharjo', 'Eugenia Kesya Annindya Putri', 'Evelyn Rosherina Cahyadi', 'Andika Rifqi Mulia', 'Tessa Johanna Sutrisno','TBA'],
       },
       {
         sportName: 'Voli',
@@ -794,19 +794,19 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -814,15 +814,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -832,7 +832,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Raihan Aqilla Naufaly Hendarsyah', 'Bonifasius Christian Wisetya', 'Sofie Samantha Joris Putri', 'Nazlia Zahra Wahdani', 'M. Raindra Faizza Adhitama', 'Zuhra Dzaki Pawenang', 'Player 7', 'Player 8'],
+        players: ['Raihan Aqilla Naufaly Hendarsyah', 'Bonifasius Christian Wisetya', 'Sofie Samantha Joris Putri', 'Nazlia Zahra Wahdani', 'M. Raindra Faizza Adhitama', 'Zuhra Dzaki Pawenang', 'Player 7'],
       },
       {
         sportName: 'Badminton',
@@ -844,7 +844,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -852,15 +852,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Agung Imansyah', 'Luthfie Eka Surya Kelana', 'Meira Madya Kurnia Putri', 'Bagas Prakasa Akbar', 'Siti Asih Rahmahaya', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Agung Imansyah', 'Luthfie Eka Surya Kelana', 'Meira Madya Kurnia Putri', 'Bagas Prakasa Akbar', 'Siti Asih Rahmahaya', 'Player 6', 'Player 7','TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -870,35 +870,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -908,7 +908,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Mazaya Shafa Alisha', 'Menur Anindya Hanan Tandyo', 'Jeihan Anwar', 'Muhammad Riezky Daffaa Aqila', 'Faris Ardhi Duineri', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Mazaya Shafa Alisha', 'Menur Anindya Hanan Tandyo', 'Jeihan Anwar', 'Muhammad Riezky Daffaa Aqila', 'Faris Ardhi Duineri', 'Player 6', 'Player 7'],
       },
       {
         sportName: 'Badminton',
@@ -920,7 +920,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -928,11 +928,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
@@ -958,7 +958,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Muhammad Vitorizki', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Vitorizki'],
       },
       {
         sportName: 'Futsal',
@@ -966,11 +966,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Syaffa Arini Kusuma', 'Rayyan Maulana Suheimy', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Syaffa Arini Kusuma', 'Rayyan Maulana Suheimy'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Muhammad Haekal Fikri', 'Joshua Verrell Tirtawidjaja', 'Latief Priandiko', 'Donna Aisha Hapsari', 'Khalisha Humaira Fernandy', 'Archerian D Hermawan', 'Aulia Nurhaliza','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Haekal Fikri', 'Joshua Verrell Tirtawidjaja', 'Latief Priandiko', 'Donna Aisha Hapsari', 'Khalisha Humaira Fernandy', 'Archerian D Hermawan', 'Aulia Nurhaliza','TBA'],
       },
       {
         sportName: 'Voli',
@@ -984,7 +984,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Rizky Nimpar Perangin-Angin', 'Rizqi Nur Fadhilah', 'A`rifaturrohmah', 'Fryni Rana Ikrima', 'Derrel Ichsanuddin', 'Ammar Nabhan Eljaad', 'Player 7', 'Player 8'],
+        players: ['Rizky Nimpar Perangin-Angin', 'Rizqi Nur Fadhilah', 'A`rifaturrohmah', 'Fryni Rana Ikrima', 'Derrel Ichsanuddin', 'Ammar Nabhan Eljaad', 'Player 7'],
       },
       {
         sportName: 'Badminton',
@@ -996,7 +996,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -1004,11 +1004,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Chaerani Supian', ' Yulianti Hikmah Nur Aeni', 'Aozora Amani Badruddin', 'Muhammad Ridhwan Azahir', 'Habib Haziqi Johan', 'Nayla Junnah Fathiyah', 'Arlan Saputra','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Chaerani Supian', ' Yulianti Hikmah Nur Aeni', 'Aozora Amani Badruddin', 'Muhammad Ridhwan Azahir', 'Habib Haziqi Johan', 'Nayla Junnah Fathiyah', 'Arlan Saputra','TBA'],
       },
       {
         sportName: 'Voli',
@@ -1022,45 +1022,45 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
-  { // Sampai sini
+  { 
     name: 'HIMPUNAN MAHASISWA TEKNIK PERENCANAAN WILAYAH DAN KOTA PANGRIPTA LOKA (HMP PL)',
     image: '/LogoHMPS/HMP.png',
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Luthfi Wavian', 'Ziham Hafidz Dwiseptano', 'Muhammad Aziz Zarkasya Ramdani ', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Luthfi Wavian', 'Ziham Hafidz Dwiseptano', 'Muhammad Aziz Zarkasya Ramdani ', 'Player 4'],
       },
       {
         sportName: 'Badminton',
@@ -1072,7 +1072,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Michael Tantra', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Michael Tantra'],
       },
       {
         sportName: 'Futsal',
@@ -1080,15 +1080,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Ammara Aqila Putri', 'Ardhana Pradipta Bambang Sarah ', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Ammara Aqila Putri', 'Ardhana Pradipta Bambang Sarah '],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Muhammad Ayyub Anshori', 'Muhammad Febrian Akbar', 'Muhammad Miqdad Multazim', 'Andi Faza Ananta Ghifari', 'Sava Priharta', 'Tarisha Zamita Pratama', 'Roes Davina Syarla Anggana', 'Saskia Keiko Denny Tabina', 'Darren Antolis', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Ayyub Anshori', 'Muhammad Febrian Akbar', 'Muhammad Miqdad Multazim', 'Andi Faza Ananta Ghifari', 'Sava Priharta', 'Tarisha Zamita Pratama', 'Roes Davina Syarla Anggana', 'Saskia Keiko Denny Tabina', 'Darren Antolis'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1098,7 +1098,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
@@ -1110,7 +1110,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Devina Junus', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Devina Junus'],
       },
       {
         sportName: 'Futsal',
@@ -1118,11 +1118,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
@@ -1136,35 +1136,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1174,7 +1174,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Farhatan Fajri Soblia', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['Farhatan Fajri Soblia'],
       },
       {
         sportName: 'Badminton',
@@ -1186,7 +1186,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Ignacio Kevin Alberiann', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Ignacio Kevin Alberiann'],
       },
       {
         sportName: 'Futsal',
@@ -1194,15 +1194,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1212,35 +1212,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1250,7 +1250,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
@@ -1258,11 +1258,11 @@ export const teams = [
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -1270,15 +1270,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1300,7 +1300,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Muhammad Farrel Adivia Suryadi', 'Reno Rizkiadi', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Farrel Adivia Suryadi', 'Reno Rizkiadi'],
       },
       {
         sportName: 'Futsal',
@@ -1308,11 +1308,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Gienna Oceani Prasetyo', 'Carissa Anindya Putri Irlandi', 'Julian Ikhlas Ikhtiar', 'Thaufik Widjaya', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Gienna Oceani Prasetyo', 'Carissa Anindya Putri Irlandi', 'Julian Ikhlas Ikhtiar', 'Thaufik Widjaya'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Muhammad Hilmy Hawari', 'Kevin Ariya Mudita Sumarto', 'Muhammad Fathan Juniarta', 'Hanna Humaira', 'Atikah Salsabila Azzahra', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Hilmy Hawari', 'Kevin Ariya Mudita Sumarto', 'Muhammad Fathan Juniarta', 'Hanna Humaira', 'Atikah Salsabila Azzahra', 'Player 6', 'Player 7','TBA'],
       },
       {
         sportName: 'Voli',
@@ -1326,7 +1326,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Kresna Harun Sanera', 'Florean Luthfita Maharani', 'Ikbar Alif Sofian', 'Fawwazti Rasendria', 'Wisnu Duoglide Wibowo', 'Muhammad Amiruddin Rasyid', 'Hirzy Fakhriadh Ardika Harnedi', 'Player 8'],
+        players: ['Kresna Harun Sanera', 'Florean Luthfita Maharani', 'Ikbar Alif Sofian', 'Fawwazti Rasendria', 'Wisnu Duoglide Wibowo', 'Muhammad Amiruddin Rasyid', 'Hirzy Fakhriadh Ardika Harnedi'],
       },
       {
         sportName: 'Badminton',
@@ -1338,7 +1338,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Yakobus Natanael P Sirait', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Yakobus Natanael P Sirait'],
       },
       {
         sportName: 'Futsal',
@@ -1346,15 +1346,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Yasinta Hutri Salamanang', 'Naisya Sizzarra Rarasdewi', 'Muhara Damarjati Isnawan', 'Teuku Kenzie Revano Azriel I', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Yasinta Hutri Salamanang', 'Naisya Sizzarra Rarasdewi', 'Muhara Damarjati Isnawan', 'Teuku Kenzie Revano Azriel I'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1364,35 +1364,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1402,35 +1402,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1440,35 +1440,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1478,7 +1478,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
@@ -1490,7 +1490,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Fatin Fareldi', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Fatin Fareldi'],
       },
       {
         sportName: 'Futsal',
@@ -1498,11 +1498,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
@@ -1516,7 +1516,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Muhammad Rigel Alhuda', 'Theopillus M Christianto ', 'Annisa Putri', 'Joylina Metta', 'Rozan Maulana Amin', 'Abirizar Daud', 'Player 7', 'Player 8'],
+        players: ['Muhammad Rigel Alhuda', 'Theopillus M Christianto ', 'Annisa Putri', 'Joylina Metta', 'Rozan Maulana Amin', 'Abirizar Daud', 'Player 7'],
       },
       {
         sportName: 'Badminton',
@@ -1528,7 +1528,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Muhammad Abdul Ghaffar', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Abdul Ghaffar'],
       },
       {
         sportName: 'Futsal',
@@ -1536,11 +1536,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Ghaffar', 'Rafly Akbar', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Ghaffar', 'Rafly Akbar'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Muhammad Fatih Aydin', 'Aurek Kaisarama Patinovka', 'Fatih Rizqi', 'Wilfred  Ariel', 'Btari Aivena', 'Victory Natasha', 'Aalia Khairunnisa','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Fatih Aydin', 'Aurek Kaisarama Patinovka', 'Fatih Rizqi', 'Wilfred  Ariel', 'Btari Aivena', 'Victory Natasha', 'Aalia Khairunnisa','TBA'],
       },
       {
         sportName: 'Voli',
@@ -1554,7 +1554,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
@@ -1566,7 +1566,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -1574,15 +1574,15 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Anastasya Br. Barus', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Anastasya Br. Barus'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Muhammad Rafly Putra Pratama', 'Muhammad Bramantya Azel M.', 'Fillya Mayvita Alamsyah', 'Florine Ardista Tirtana', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Muhammad Rafly Putra Pratama', 'Muhammad Bramantya Azel M.', 'Fillya Mayvita Alamsyah', 'Florine Ardista Tirtana','TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1604,7 +1604,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Azfa', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Azfa'],
       },
       {
         sportName: 'Futsal',
@@ -1612,11 +1612,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Qinthary Syifanabi’ilah Lovely Muakil', 'Christo Kinarta Purba', 'Caka Bagas Khairi', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Qinthary Syifanabi’ilah Lovely Muakil', 'Christo Kinarta Purba', 'Caka Bagas Khairi', 'Player 4'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Ahmad Dzakwaan Haniif Herefa', 'Rahmana Tri Lailafala', 'Hotman Jhonson Alexander Limbong', 'Adhifa Pramaswari', 'Ranisa Azmi Desnita', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Ahmad Dzakwaan Haniif Herefa', 'Rahmana Tri Lailafala', 'Hotman Jhonson Alexander Limbong', 'Adhifa Pramaswari', 'Ranisa Azmi Desnita', 'Player 6', 'Player 7','TBA'],
       },
       {
         sportName: 'Voli',
@@ -1630,7 +1630,7 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
@@ -1642,7 +1642,7 @@ export const teams = [
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
@@ -1650,11 +1650,11 @@ export const teams = [
       },
       {
         sportName: 'Renang',
-        players: ['Diandra Lamees', 'Delvin Nazzala R.', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['Diandra Lamees', 'Delvin Nazzala R.'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
@@ -1668,35 +1668,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7','Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
@@ -1706,35 +1706,35 @@ export const teams = [
     sports: [
       {
         sportName: 'Atletik',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Badminton',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Basket',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7', 'Player 8'],
+        players: ['TBA'],
       },
       {
         sportName: 'Catur',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Futsal',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Renang',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Tenis Meja',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
       {
         sportName: 'Voli',
-        players: ['Player 1', 'Player 2', 'Player 3', 'Player 4', 'Player 5', 'Player 6', 'Player 7'],
+        players: ['TBA'],
       },
     ],
   },
