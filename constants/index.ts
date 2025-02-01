@@ -1113,11 +1113,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Mitchell Sebastian Frederick Purba', 'Jovan Amalex Sander Manullang', 'Steven Andreas Martua Silitonga', 'Fauzan Arkadani Setyowibowo', 'Raihan Fachri Muszagia', 'Feliciano Enrico Setiawan', 'Octavian Pradipta Setiawan', 'Muhammad Danish Caezzare Setiawan', 'Fayyaz Mufazzal', 'Muhammad Yusuf Khairul Aqila', 'Muhammad Sholihul Abid', 'Jason Moelia Sapoetra', 'Maulanasyah Izaz Ma\'ruf'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Josh Yosafat Simanjuntak', 'Satrio Istibra Winpratama', 'Shauqie Syahrisy', 'Juan Eduardo', 'Richko Raihan Thoriq Akbar', 'Kaisan Raid Almanson'],
       }
     ],
   },
@@ -1159,11 +1159,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Latief Priandiko', 'Muhammad Radithya', 'Ignatius Fernando', 'Billy Mora', 'Joshua Verrel', 'Marcellino Antolin Surbakti', 'Mario Muhammad Daviza', 'Jeremia Christofer Pandapotan Siregar', 'Farhan Hazim', 'Steven Hosea Manurung', 'Teuku Muhammad Fauzi Ridwan', 'Tolibul Ula Sahriya', 'Muhammad Vitorizki', 'Raden Satria Putra Firdaus', 'Evan Gardana Priasetia'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Fachry Sihombing', 'Muhammad Farell Faza Swivelly', 'Haga Pradiva', 'Rifqi Aufa Ahmad', 'Muhammad Ichsan Firdzatullah Adam', 'Hanindityo Aiman Rachmansa', 'David Ahmad Zulfian'],
       }
     ],
   },
@@ -1205,11 +1205,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Prio Bahari Junior', 'Wahyu Tri Ramadhan', 'Mikhail Moammar Pasha', 'Iftikhar Ryo Ardhana', 'Rifqy Rahmatrobbi Rantung', 'Arlan Saputra', 'Muhammad Rayyan Akhsan', 'Rijal Mustamsik Zia\'Ul Haq', 'Fikri Ahmad Hervian', 'Muhammad Fauzan', 'Muhammad Fahrizal Prasetya', 'Muhammad Atiyya Akmal Azzikra', 'Mochamad Favian Gani Widyatna', 'Ray Jonas Lumenta'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Abdirahman Pratama', 'Fawzan Muhammad Rizqi', 'Mochammad Alghoni Putra P.', 'Rafael Ganadi Raksamanggala', 'Rayn Abdillah', 'Alexander Gultom', 'Marudut Rajatua Hamonangan', 'S Faustafarrel Quds', 'Derrel Ichsanuddin'],
       }
     ],
   },
