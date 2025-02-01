@@ -1435,11 +1435,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['Nur Fazlie', 'Nando', 'Yafi', 'Hezky Gerald', 'Syarif Hidayat', 'Fathan Faishal Sudrajat', 'Ahmad Hakim Sufyan', 'Ravsa Novian Ramdhani', 'Fairuz Nadhif', 'Adryan Siregar', 'Reihnart Octo', 'Hifzhan Zahfir', 'M. Khalil Zarfan', 'Natan Kristian'],
+        players: ['Marutaro Tawazuka Tanadi', 'Leonardi Nathaniel Themin', 'Raden Joseph Arya Veda P', 'Mafaza Zahran Fayadh', 'Abyan Alfarisi', 'Atalarizq Y. H.', 'Bayu Dirgantara', 'Ignacio Kevin Alberiann', 'Rifqi Zuhdii Fayyadh', 'Muhammad Al Farizi Rizqi Ziddane', 'Muhammad Dzaky Haikal Bariqi', 'Reynara Nadiv Alfizan'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Dzulfaqar Abdul Malik', 'Darel Rabbani Hidayat', 'Andi Muhammad Fajariansyah S.', 'Mafaza Zahran Fayadh', 'Atalarizq Y. H.', 'Yonathan Andyawan'],
       }
     ],
   },
@@ -1481,7 +1481,7 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Nur Fazlie', 'Nando', 'Yafi', 'Hezky Gerald', 'Syarif Hidayat', 'Fathan Faishal Sudrajat', 'Ahmad Hakim Sufyan', 'Ravsa Novian Ramdhani', 'Fairuz Nadhif', 'Adryan Siregar', 'Reihnart Octo', 'Hifzhan Zahfir', 'M. Khalil Zarfan', 'Natan Kristian'],
       },
       {
         sportName: 'Valorant',
@@ -1527,11 +1527,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Reno Rizkiadi', 'Muhammad Pradibta Yudhistira', 'Moch Nizam Az Zurra', 'Afla Hadzani Ahmad', 'Fikri Amiruddin', 'Muhammad Fathan Juniarta', 'Muhammad Ilham Saripul Milah', 'Ivander Christian Gavrila Sianturi', 'Arif Jaya Rizal', 'Joshua Nathanael Rebanca Tarigan', 'Lutfi Andrean', 'Deaz Rezaldi Taufik', 'Thubagus Ahmad Mahanata', 'I Nyoman Yudhi Pradnyana'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Wafiy Addin Rildova', 'Michael Patrick Thamrin', 'Milzam Sakif', 'Muhammad Zidane', 'Areta Rahma Amadia', 'Muhammad Daffa Rabbani', 'Christoffel M G Pasaribu'],
       }
     ],
   },
@@ -1573,11 +1573,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Febrian Rahman Adi', 'Achmad Shafwan Zuhair', 'Muhammad Belva Valerino', 'Nyoman Nayaka Arkana', 'David Evan Prawira', 'Muhammad Saka Rasendriya', 'Muhammad Farras Razin', 'Muhammad Taufik Rizki', 'Komang Maesa Dithanugraha', 'Gatra Akhira', 'Elieser Nathanael', 'Ali Ridho', 'Fikry Adam'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['I Putu Bagus Dharma Andhika', 'Ridho Radifa Al Haq', 'Raqinnaja Axsali', 'Rafly Nafisena Rahadian', 'Farrel Musyafa Arzuli', 'Muhammad Farras Razin', 'Faiq Fayyadil Rahman'],
       }
     ],
   },
@@ -1665,11 +1665,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Fauzan Makarim', 'Albert Christian', 'Farizem', 'Rafli Shiddiq', 'Zahra Auliya', 'Sirkhan Davidson', 'Syamil Philosophy', 'Jeremy Gerald Pairunan', 'Bryan Gibran Ajami', 'Fito Hadiantama T', 'Ahmad Zaki', 'Darrell Rayyan S'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Shafa Firdaus', 'Faris Irham Yusufandika', 'Akmal Abdurrasyid', 'Fito Hadiantama', 'Alvredo Limanchya', 'Nathania Siregar', 'Daffa Restu Maulana', 'Dimaz Aqila Razzaq', 'Roofido Zahran H', 'Danis Pratomo', 'Fatin Fareldi', 'Timotius Wiarda Santoso'],
       }
     ],
   },
@@ -1711,11 +1711,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Muhammad Raditya Tri Atmaja', 'Farrel Rasyad Darmawan', 'Jamaludin Ahmad', 'Muhammad Ferdian Al Ma\'ruf', 'Mafazi Ikhwan Dhandi Hibatullah', 'Nashwan Pradipa', 'Jovando Haryo Kawapangga', 'Satria Saputra Saragih', 'Bryan Franklyn J Walangitang', 'M Abdul Ghaffar Baihaqi', 'Osmar Zidane', 'Zachrin Afian'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Muhammad Abdul Ghaffar Baihaqi', 'Osmar Zidane', 'Pramesa Daffa', 'Gio Simanusngsong', 'KGS Kaisar Dee Rabbani', 'R Muhammad Ghaanem', 'Farrel Rasyad Darmawan', 'Muhammad Faiz Naufal J', 'Mahabbah Azzaky Naufal Toti', 'Rizqi khoirul', 'Khael Jonathan', 'Nabiel Khayru Umara'],
       }
     ],
   },
@@ -1757,11 +1757,11 @@ export const teams = [
       },
       {
         sportName: 'Mobile Legends',
-        players: ['TBA'],
+        players: ['Steven Sanjaya S.', 'Ahmad Zakaria', 'Reydion Chrystiano S.', 'Imam Choerurizki', 'Dhafin Raziq A.', 'M. Dzaki Abthal H.', 'M. Rafly Putra P.', 'M. Daffa Kadiman', 'Nugroho Wisnu M.', 'Steven', 'M. Caesar Ramadhan', 'Bryan Evan T.'],
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Fahril Veraldyka', 'Moreno Adrian', 'Mahesa Putra', 'Dhafin Raziq', 'Faza Haunan', 'Rafiza Hidayat'],
       }
     ],
   },
@@ -1807,7 +1807,7 @@ export const teams = [
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Frans Nainggolan', 'Farhan Dwiprana', 'Theodorolas Jeremy', 'Raden Mas Mufid', 'Cornelius Lilik', 'Muhammad Hilmy Aryanda', 'Aafreen Al Farouq', 'Muhammad Kemal Aulia Sutadian', 'Costanzo Ferro Christyudana', 'Alexander Adiyasa', 'Ivan Timothy Dio Manurung', 'M Soulthan Azfa Putra Radityo'],
       }
     ],
   },
@@ -1853,7 +1853,7 @@ export const teams = [
       },
       {
         sportName: 'Valorant',
-        players: ['TBA'],
+        players: ['Muhammad Kasyfi Hazazi Juliansyah', 'Muhammad Umair Yasin', 'Faaris Muzhaffar', 'Rasya Cinta Putri W', 'Ryuta Darma', 'Muhammad Raihan Adzikri', 'Najwa Aliana Hamdani', 'Mahardika Wijaya', 'Muhammad Dhiya Ul Haq', 'Mochammad Savero Anandhitya', 'Davy Fadhlan Zakhiran', 'Tristan Nabiel Widyatma', 'Faiz Fadhillah', 'Sophia Nazwa'],
       }
     ],
   },
